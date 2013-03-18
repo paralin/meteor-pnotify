@@ -1,0 +1,10 @@
+{
+    "name": "pnotify",
+    "description": "Pines notify packaged for Meteor.",
+    "homepage": "https://github.com/kidovate/meteor-dialog2",
+    "author": "Christian Stewart <kidovate@gmail.com>",
+    "version": "0.1.0",
+    "git": "https://github.com/kidovate/meteor-pnotify.git",
+    "packages": {
+    }
+}
