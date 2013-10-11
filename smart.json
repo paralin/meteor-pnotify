@@ -2,7 +2,7 @@
     "name": "pnotify-bootstrap-3",
     "description": "Bootstrap 3 compatible fork of Pines notify packaged for Meteor.",
     "homepage": "https://github.com/emdagon/meteor-pnotify",
-    "author": "Emilio Gonzále <emdagon@gmail.com>",
+    "author": "Emilio Gonzalez <emdagon@gmail.com>",
     "version": "0.1.0",
     "git": "https://github.com/emdagon/meteor-pnotify-bootstrap-3.git",
     "packages": {
