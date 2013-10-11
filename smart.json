@@ -4,7 +4,7 @@
     "homepage": "https://github.com/emdagon/meteor-pnotify",
     "author": "Christian Stewart <kidovate@gmail.com>, forked by Emilio González",
     "version": "0.1.0",
-    "git": "https://github.com/emdagon/meteor-pnotify.git",
+    "git": "https://github.com/emdagon/meteor-pnotify-bootstrap-3.git",
     "packages": {
     }
 }
