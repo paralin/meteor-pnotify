@@ -4,9 +4,9 @@ Package.describe({
 
 Package.on_use(function (api) {
     api.use('jquery', 'client');
-    api.use('bootstrap', 'client');
+    api.use('bootstrap-3', 'client');
     api.add_files([
-        'lib/js/jquery.pnotify.min.js',
+        'lib/js/jquery.pnotify.js',
         'lib/css/jquery.pnotify.default.css'
     ],'client');
 });
