@@ -9,4 +9,5 @@ Package.on_use(function (api) {
         'lib/js/bridge.js',
         'lib/css/jquery.pnotify.default.css'
     ],'client');
+    if (api.export) api.export('PNotify', 'client');
 });
