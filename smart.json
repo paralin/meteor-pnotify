@@ -3,6 +3,6 @@
     "description": "Beautiful and modern in-browser and desktop notifications.",
     "homepage": "http://sciactive.com/pnotify/",
     "author": "Christian Stewart",
-    "version": "2.0.6",
+    "version": "2.0.7",
     "git": "https://github.com/kidovate/meteor-pnotify.git"
 }
