@@ -1,5 +1,6 @@
 Package.describe({
-    summary: "Beautiful and modern desktop and in-browser notifications."
+    summary: "Beautiful and modern desktop and in-browser notifications.",
+	git: "https://github.com/paralin/meteor-pnotify"
 });
 
 Package.on_use(function (api) {
